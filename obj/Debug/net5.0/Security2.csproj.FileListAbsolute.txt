@@ -1,0 +1,1294 @@
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\appsettings.json
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.StaticWebAssets.xml
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.exe
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.deps.json
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.runtimeconfig.json
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.runtimeconfig.dev.json
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ref\Security2.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.pdb
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.Views.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Security2.Views.pdb
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\measterbrook\Source\Repos\Security2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.csproj.AssemblyReference.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.AssemblyInfoInputs.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.AssemblyInfo.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.csproj.CoreCompileInputs.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.Manifest.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.xml
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\scopedcss\bundle\Security2.styles.css
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.TagHelpers.input.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.TagHelpers.output.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.RazorCoreGenerate.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.Views.pdb
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.dll
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\ref\Security2.dll
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.pdb
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.genruntimeconfig.cache
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Security2.csproj.CopyComplete
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Layouts\_SpeakersLayout.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Users\measterbrook\Source\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\appsettings.json
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.StaticWebAssets.xml
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.exe
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.deps.json
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.runtimeconfig.json
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.runtimeconfig.dev.json
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ref\Security2.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.Views.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Security2.Views.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Humanizer.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.csproj.AssemblyReference.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.AssemblyInfoInputs.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.AssemblyInfo.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.csproj.CoreCompileInputs.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\scopedcss\bundle\Security2.styles.css
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.Manifest.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.xml
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.TagHelpers.input.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.TagHelpers.output.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.RazorCoreGenerate.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Layouts\_SpeakersLayout.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cache
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cs
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.Views.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.csproj.CopyComplete
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\ref\Security2.dll
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.pdb
+C:\Users\meast\OneDrive\ASP\Repos\Security2\obj\Debug\net5.0\Security2.genruntimeconfig.cache
+C:\Repos\bin\Debug\net5.0\appsettings.Development.json
+C:\Repos\bin\Debug\net5.0\appsettings.json
+C:\Repos\bin\Debug\net5.0\Security2.StaticWebAssets.xml
+C:\Repos\bin\Debug\net5.0\Security2.exe
+C:\Repos\bin\Debug\net5.0\Security2.deps.json
+C:\Repos\bin\Debug\net5.0\Security2.runtimeconfig.json
+C:\Repos\bin\Debug\net5.0\Security2.runtimeconfig.dev.json
+C:\Repos\bin\Debug\net5.0\Security2.dll
+C:\Repos\bin\Debug\net5.0\ref\Security2.dll
+C:\Repos\bin\Debug\net5.0\Security2.pdb
+C:\Repos\bin\Debug\net5.0\Security2.Views.dll
+C:\Repos\bin\Debug\net5.0\Security2.Views.pdb
+C:\Repos\bin\Debug\net5.0\Humanizer.dll
+C:\Repos\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Repos\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Repos\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Repos\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Repos\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Repos\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Repos\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Repos\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Repos\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Repos\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Repos\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Repos\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Repos\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Repos\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Repos\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Repos\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Repos\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Repos\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Repos\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Repos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Repos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Repos\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Repos\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Repos\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Repos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Repos\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Repos\obj\Debug\net5.0\Security2.csproj.AssemblyReference.cache
+C:\Repos\obj\Debug\net5.0\Security2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\obj\Debug\net5.0\Security2.AssemblyInfoInputs.cache
+C:\Repos\obj\Debug\net5.0\Security2.AssemblyInfo.cs
+C:\Repos\obj\Debug\net5.0\Security2.csproj.CoreCompileInputs.cache
+C:\Repos\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cs
+C:\Repos\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cache
+C:\Repos\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cache
+C:\Repos\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cs
+C:\Repos\obj\Debug\net5.0\scopedcss\bundle\Security2.styles.css
+C:\Repos\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.Manifest.cache
+C:\Repos\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.xml
+C:\Repos\obj\Debug\net5.0\Security2.TagHelpers.input.cache
+C:\Repos\obj\Debug\net5.0\Security2.TagHelpers.output.cache
+C:\Repos\obj\Debug\net5.0\Security2.RazorCoreGenerate.cache
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Layouts\_SpeakersLayout.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Repos\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cache
+C:\Repos\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cs
+C:\Repos\obj\Debug\net5.0\Security2.Views.pdb
+C:\Repos\obj\Debug\net5.0\Security2.csproj.CopyComplete
+C:\Repos\obj\Debug\net5.0\Security2.dll
+C:\Repos\obj\Debug\net5.0\ref\Security2.dll
+C:\Repos\obj\Debug\net5.0\Security2.pdb
+C:\Repos\obj\Debug\net5.0\Security2.genruntimeconfig.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.dll
+C:\Speakers - Copy\obj\Debug\net5.0\ref\Security2.dll
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\appsettings.Development.json
+C:\Speakers - Copy\bin\Debug\net5.0\appsettings.json
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.StaticWebAssets.xml
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.exe
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.deps.json
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.runtimeconfig.json
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.runtimeconfig.dev.json
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ref\Security2.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.Views.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Security2.Views.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\Humanizer.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Speakers - Copy\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Speakers - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Speakers - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Speakers - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Speakers - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.csproj.AssemblyReference.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.AssemblyInfoInputs.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.AssemblyInfo.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.csproj.CoreCompileInputs.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cs
+C:\Speakers - Copy\obj\Debug\net5.0\scopedcss\bundle\Security2.styles.css
+C:\Speakers - Copy\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.Manifest.cache
+C:\Speakers - Copy\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.xml
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.TagHelpers.input.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.TagHelpers.output.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.RazorCoreGenerate.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Layouts\_SpeakersLayout.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cache
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cs
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.Views.pdb
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.csproj.CopyComplete
+C:\Speakers - Copy\obj\Debug\net5.0\Security2.genruntimeconfig.cache
+C:\Speakers\bin\Debug\net5.0\appsettings.Development.json
+C:\Speakers\bin\Debug\net5.0\appsettings.json
+C:\Speakers\bin\Debug\net5.0\Security2.StaticWebAssets.xml
+C:\Speakers\bin\Debug\net5.0\Security2.exe
+C:\Speakers\bin\Debug\net5.0\Security2.deps.json
+C:\Speakers\bin\Debug\net5.0\Security2.runtimeconfig.json
+C:\Speakers\bin\Debug\net5.0\Security2.runtimeconfig.dev.json
+C:\Speakers\bin\Debug\net5.0\Security2.dll
+C:\Speakers\bin\Debug\net5.0\ref\Security2.dll
+C:\Speakers\bin\Debug\net5.0\Security2.pdb
+C:\Speakers\bin\Debug\net5.0\Security2.Views.dll
+C:\Speakers\bin\Debug\net5.0\Security2.Views.pdb
+C:\Speakers\bin\Debug\net5.0\Humanizer.dll
+C:\Speakers\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Speakers\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Speakers\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Speakers\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Speakers\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Speakers\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Speakers\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Speakers\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Speakers\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Speakers\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Speakers\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Speakers\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Speakers\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Speakers\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Speakers\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Speakers\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Speakers\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Speakers\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Speakers\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Speakers\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Speakers\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Speakers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Speakers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Speakers\obj\Debug\net5.0\Security2.csproj.AssemblyReference.cache
+C:\Speakers\obj\Debug\net5.0\Security2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Speakers\obj\Debug\net5.0\Security2.AssemblyInfoInputs.cache
+C:\Speakers\obj\Debug\net5.0\Security2.AssemblyInfo.cs
+C:\Speakers\obj\Debug\net5.0\Security2.csproj.CoreCompileInputs.cache
+C:\Speakers\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cs
+C:\Speakers\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cache
+C:\Speakers\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cache
+C:\Speakers\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cs
+C:\Speakers\obj\Debug\net5.0\scopedcss\bundle\Security2.styles.css
+C:\Speakers\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.Manifest.cache
+C:\Speakers\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.xml
+C:\Speakers\obj\Debug\net5.0\Security2.TagHelpers.input.cache
+C:\Speakers\obj\Debug\net5.0\Security2.TagHelpers.output.cache
+C:\Speakers\obj\Debug\net5.0\Security2.RazorCoreGenerate.cache
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Layouts\_SpeakersLayout.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cache
+C:\Speakers\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cs
+C:\Speakers\obj\Debug\net5.0\Security2.Views.pdb
+C:\Speakers\obj\Debug\net5.0\Security2.csproj.CopyComplete
+C:\Speakers\obj\Debug\net5.0\Security2.dll
+C:\Speakers\obj\Debug\net5.0\ref\Security2.dll
+C:\Speakers\obj\Debug\net5.0\Security2.pdb
+C:\Speakers\obj\Debug\net5.0\Security2.genruntimeconfig.cache
+C:\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Create.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Delete.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Details.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Edit.cshtml.g.cs
+C:\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\appsettings.json
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.StaticWebAssets.xml
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.exe
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.deps.json
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.runtimeconfig.json
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.runtimeconfig.dev.json
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.pdb
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.Views.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Security2.Views.pdb
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Humanizer.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Web.Mvc.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Web.Helpers.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Web.WebPages.Deployment.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Web.WebPages.Razor.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Web.WebPages.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Microsoft.Web.Infrastructure.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\meast\OneDrive\Speakers\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.csproj.AssemblyReference.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.AssemblyInfoInputs.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.AssemblyInfo.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.csproj.CoreCompileInputs.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.RazorAssemblyInfo.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\scopedcss\bundle\Security2.styles.css
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.Manifest.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\staticwebassets\Security2.StaticWebAssets.xml
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.TagHelpers.input.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.TagHelpers.output.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.RazorCoreGenerate.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Layouts\_SpeakersLayout.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\RoleManager\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Create.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Delete.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Details.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Edit.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\SpeakerAddressTypeLookupModels\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Create.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Delete.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Details.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Edit.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\Speakers\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\UserRoles\Manage.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.RazorTargetAssemblyInfo.cs
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.Views.pdb
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.csproj.CopyComplete
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.dll
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\ref\Security2.dll
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.pdb
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\Security2.genruntimeconfig.cache
+C:\Users\meast\OneDrive\Speakers\obj\Debug\net5.0\refint\Security2.dll

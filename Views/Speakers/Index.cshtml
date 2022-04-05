@@ -1,0 +1,185 @@
+﻿@model IEnumerable<Security2.Models.SpeakerQuery>
+
+@{
+    ViewData["Title"] = "Speakers";
+}
+@{
+    Layout = "~/Views/Layouts/_SpeakersLayout.cshtml";
+}
+<h1>Speakers</h1>
+
+<style>
+    body div.container {margin-left: 1em;}
+    table#speakertable thead {font-size: x-small;}
+    table#speakertable tbody {font-size: x-small;}
+</style>
+
+<p>
+    <a asp-action="Create" style="text-decoration: underline">Create New</a>
+</p>
+<br />
+
+<table id="speakertable" class="center cell-border" cellspacing="0" style="width:90%; margin-top:-2em; margin-bottom:4em">
+    <thead>
+        <tr>
+            <th>
+                Control
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerFirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerLastName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EffectiveDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TerminationDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TrainingStatus)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TypeOfAgreement)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AddressType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerInstitution)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerFellowshipEntity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.NationalSpeaker)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Npi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PractitionerType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SpeakerPracticeSpecialty)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TerritoryManager)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryCD)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CategoryOther)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ContractDuration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address1)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Address2)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.City)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.State)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Zip)
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerFirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerLastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EffectiveDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TerminationDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrainingStatus)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TypeOfAgreement)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.AddressType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerInstitution)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerFellowshipEntity)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NationalSpeaker)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Npi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PractitionerType)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SpeakerPracticeSpecialty)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TerritoryManager)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryCD)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CategoryOther)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ContractDuration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address1)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address2)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.City)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.State)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Zip)
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
