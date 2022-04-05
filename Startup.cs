@@ -17,6 +17,7 @@ namespace Security2
 {
     public class Startup
     {
+        Type type;
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
