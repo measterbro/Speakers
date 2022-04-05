@@ -1,0 +1,139 @@
+﻿@model Security2.Models.SpeakerQuery
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>Speaker</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="SpeakerFirstName" class="control-label"></label>
+                <input asp-for="SpeakerFirstName" class="form-control" />
+                <span asp-validation-for="SpeakerFirstName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SpeakerLastName" class="control-label"></label>
+                <input asp-for="SpeakerLastName" class="form-control" />
+                <span asp-validation-for="SpeakerLastName" class="text-danger"></span>
+            </div>
+            <div class="form-group">   
+                <label asp-for="SpeakerStatus" class="control-label"></label>
+                <select asp-for="SpeakerStatus" class="control-label" asp-items="@(new SelectList(@ViewBag.statusTypeList, "Id", "SpeakerStatus"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="EffectiveDate" class="control-label"></label>
+                <input asp-for="EffectiveDate" class="form-control" />
+                <span asp-validation-for="EffectiveDate" class="text-danger" DataFormatString="{0:dd/MM/yyyy}"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TerminationDate" class="control-label"></label>
+                <input asp-for="TerminationDate" class="form-control" />
+                <span asp-validation-for="TerminationDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TrainingStatus" class="control-label"></label>
+                <input asp-for="TrainingStatus" class="form-control" />
+                <span asp-validation-for="TrainingStatus" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="TypeOfAgreement" class="control-label"></label>
+                <select asp-for="TypeOfAgreement" class="control-label" asp-items="@(new SelectList(@ViewBag.TypeOfAgreementList, "Id", "TypeOfAgreement"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="AddressType" class="control-label"></label>
+                <select asp-for="AddressType" class="control-label" asp-items="@(new SelectList(@ViewBag.AddressTypeList, "Id", "AddressType"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="SpeakerEmail" class="control-label"></label>
+                <input asp-for="SpeakerEmail" class="form-control" />
+                <span asp-validation-for="SpeakerEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SpeakerInstitution" class="control-label"></label>
+                <input asp-for="SpeakerInstitution" class="form-control" />
+                <span asp-validation-for="SpeakerInstitution" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="SpeakerFellowshipEntity" class="control-label"></label>
+                <input asp-for="SpeakerFellowshipEntity" class="form-control" />
+                <span asp-validation-for="SpeakerFellowshipEntity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="NationalSpeaker" class="control-label"></label>
+                <input asp-for="NationalSpeaker" class="form-control" />
+                <span asp-validation-for="NationalSpeaker" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Npi" class="control-label"></label>
+                <input asp-for="Npi" class="form-control" />
+                <span asp-validation-for="Npi" class="text-danger"></span>
+            </div>
+            <div class="form-group">                
+                <label asp-for="PractitionerType" class="control-label"></label>
+                <select asp-for="PractitionerType" class="control-label" asp-items="@(new SelectList(@ViewBag.PractitionerTypeList, "Id", "PractitionerType"))"></select>
+            </div>
+            <div class="form-group">      
+                <label asp-for="SpeakerPracticeSpecialty" class="control-label"></label>
+                <select asp-for="SpeakerPracticeSpecialty" class="control-label" asp-items="@(new SelectList(@ViewBag.PracticeSpecialtyList, "Id", "PracticeSpecialty"))"></select>
+            </div>
+            <div class="form-group">    
+                <label asp-for="TerritoryManager" class="control-label"></label>
+                <select asp-for="TerritoryManager" class="control-label" asp-items="@(new SelectList(@ViewBag.TerritoryList, "TerritoryId", "TerritoryManager"))"></select>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Category1</label><br />
+                <select asp-for="CategoryCD" class="control-label" asp-items="@(new SelectList(@ViewBag.CategoryList, "Id", "Category"))"></select>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">Category2</label><br />
+                <select asp-for="CategoryOther" class="control-label" asp-items="@(new SelectList(@ViewBag.CategoryList, "Id", "Category"))"></select>
+            </div>
+            <div class="form-group">
+                <label  class="control-label">ContractDuration</label><br />
+                <select asp-for="ContractDuration" class="control-label" asp-items="@(new SelectList(@ViewBag.DurationList, "Id", "Duration"))"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address1" class="control-label"></label>
+                <input asp-for="Address1" class="form-control" />
+                <span asp-validation-for="Address1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address2" class="control-label"></label>
+                <input asp-for="Address2" class="form-control" />
+                <span asp-validation-for="Address2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City" class="control-label"></label>
+                <input asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="State" class="control-label"></label>
+                <input asp-for="State" class="form-control" />
+                <span asp-validation-for="State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Zip" class="control-label"></label>
+                <input asp-for="Zip" class="form-control" />
+                <span asp-validation-for="Zip" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
